@@ -1,0 +1,50 @@
+.activities-section {
+	display: flex;
+	justify-content: space-between;
+	text-align: center;
+}
+
+.activities h1 {
+	text-align: center;
+	margin-top: 3rem;
+	font-size: 2.5rem;
+}
+
+.activities-section img {
+	width: 95%;
+	height: 50vh;
+}
+
+.activities-section h4 {
+	margin-top: 2rem;
+}
+
+.activities-section h4 a {
+	text-decoration: none;
+	color: #fff;
+}
+
+.activities-section h4 a:hover {
+	border-bottom: 2px solid rgba(255, 255, 255, 0.514);
+	padding-bottom: 2px;
+}
+
+.homepage-info {
+	margin-top: 4rem;
+}
+
+.homepage-info h1 {
+	text-align: center;
+	font-size: 2.5rem;
+	margin-bottom: 2rem;
+}
+
+.homepage-info img {
+	width: 100%;
+	margin-bottom: 1rem;
+}
+
+.homepage-info p {
+	text-align: center;
+	font-size: 1rem;
+}

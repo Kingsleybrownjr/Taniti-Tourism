@@ -1,0 +1,24 @@
+.things-todo h1 {
+	text-align: center;
+	font-size: 2.5rem;
+	margin-top: 1.5rem;
+}
+
+.todo-activities div {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-bottom: 1.5rem;
+}
+
+.todo-activities img {
+	width: 20vw;
+}
+
+.todo-activities p {
+	font-size: 0.9rem;
+}
+
+.left-todo {
+	padding-left: 2rem;
+}

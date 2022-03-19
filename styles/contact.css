@@ -1,0 +1,28 @@
+.contact-info h1 {
+	text-align: center;
+	font-size: 2.5rem;
+}
+
+.contact-info_details p {
+	text-align: center;
+	font-size: 1.3rem;
+	margin-bottom: 1rem;
+}
+
+.contain-map_section p {
+	text-align: center;
+	font-size: 1.2rem;
+	margin-top: 1rem;
+}
+
+.contain-map_section h1 {
+	font-size: 2.5rem;
+	text-align: center;
+	margin-top: 2rem;
+}
+
+.questions {
+	text-align: left;
+	margin-top: 1rem;
+	font-weight: 700;
+}

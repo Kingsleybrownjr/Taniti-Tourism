@@ -1,0 +1,33 @@
+.transportation-details {
+    margin-top: 1.5rem;
+}
+
+.transportation-details h1 {
+    font-size: 2.5rem;
+    text-align: center;
+}
+
+.transportation-detail {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.transportation-detail h4 {
+    text-align: center;
+    margin-top: 1rem;
+}
+
+.transportation-detail img {
+    width: 95%;
+}
+
+.map {
+    margin-top: 1.5rem;
+    text-align: center;
+}
+
+.map p {
+    margin-bottom: 1.5rem;
+}
